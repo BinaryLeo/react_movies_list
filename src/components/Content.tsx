@@ -37,7 +37,7 @@ export function Content({selectedGenreId,selectedGenre}: ContentProps) {
     <div className="container">
       <header>
         <span className="category">
-          Categoria:<span> {selectedGenre.title}</span>
+          Category:<span> {selectedGenre.title}</span>
         </span>
       </header>
 
