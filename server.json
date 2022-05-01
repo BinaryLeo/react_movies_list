@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "action",
-      "title": "Ação"
+      "title": "Action"
     },
     {
       "id": 2,
       "name": "comedy",
-      "title": "Comédia"
+      "title": "Comedy"
     },
     {
       "id": 3,
       "name": "documentary",
-      "title": "Documentário"
+      "title": "Documentary"
     },
     {
       "id": 4,
@@ -23,12 +23,12 @@
     {
       "id": 5,
       "name": "horror",
-      "title": "Terror"
+      "title": "Horror"
     },
     {
       "id": 6,
       "name": "family",
-      "title": "Família"
+      "title": "Family"
     }
   ],
   "movies": [

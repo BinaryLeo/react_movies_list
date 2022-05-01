@@ -1,5 +1,4 @@
 import { Icon } from './Icon';
-
 import '../styles/button.scss';
 import { ButtonHTMLAttributes } from 'react';
 
