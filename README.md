@@ -8,7 +8,8 @@
   ![GitHub last commit](https://img.shields.io/github/last-commit/BinaryLeo/movies_list?style=flat-square)
   ![GitHub top language](https://img.shields.io/github/languages/top/BinaryLeo/movies_list?style=flat-square)
 
-![index](https://user-images.githubusercontent.com/72607039/166133985-91006429-9cd2-4539-bcbe-ee5b1eea63f6.gif)
+![index](https://user-images.githubusercontent.com/72607039/166157544-a7969ce9-6167-4395-a964-de0500ba0053.gif)
+
 
 
 </div>
